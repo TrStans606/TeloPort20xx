@@ -1,7 +1,7 @@
-# TeloPort
+# TeloPort20XX
 
-TeloPort / TeloReport is a collection of tools for extracting and clustering subtelomeric sequences from raw reads.
-
+TeloPort / TeloReport is a collection of tools for extracting and clustering subtelomeric sequences from raw reads. TeloPort20XX
+is a copy of TeloPort with bug fixes to allow it to compile on Fedora 40 and the clang compiler. This should allow for greater compability with OSX and more Linux Distros.
 ## About
 
 Subtelomeres are often studied because they undergo frequent rearrangements. However, due to the repeating nature of telomeres, many reads containing valuable subtelomere information are difficult to place in the genome assembly. This project was created as a means of extracting and processing subtelomeric reads from raw read datasets for the purposes of analysis and for more accurate construction of subtelomeric regions in fully assembled genomes.
